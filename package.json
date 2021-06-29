@@ -30,5 +30,6 @@
                 "path": "./themes/Deep Black-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
