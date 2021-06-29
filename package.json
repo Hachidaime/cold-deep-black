@@ -1,0 +1,33 @@
+{
+    "name": "deep-black",
+    "displayName": "Deep Black",
+    "description": "Cold Deep Black",
+    "version": "1.0.0",
+    "publisher": "Hachidaime",
+    "repository": {
+        "type": "git",
+        "url": "https:"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "hachidaime",
+        "deep black",
+        "cold deep black"
+    ],
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deep Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Deep Black-color-theme.json"
+            }
+        ]
+    }
+}
