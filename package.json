@@ -4,6 +4,7 @@
     "description": "Cold Deep Black",
     "version": "1.0.0",
     "publisher": "Hachidaime",
+    "lisence": "GPLv3",
     "repository": {
         "type": "git",
         "url": "https://github.com/Hachidaime/cold-deep-black"
