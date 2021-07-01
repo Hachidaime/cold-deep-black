@@ -859,7 +859,13 @@
 			"scope": "storage",
 			"settings": {
 				"foreground": "#00ffff",
-				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Storage Modifier PHP",
+			"scope": "storage.modifier.php, storage.type.function.php",
+			"settings": {
+				"fontStyle": "italic bold"
 			}
 		},
 		{
