@@ -1,35 +1,35 @@
 {
-    "name": "deep-black",
-    "displayName": "Deep Black",
-    "description": "Cold Deep Black",
-    "version": "1.3.0",
-    "publisher": "Hachidaime",
-    "lisence": "GPLv3",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Hachidaime/cold-deep-black"
-    },
-    "keywords": [
-        "theme",
-        "dark theme",
-        "hachidaime",
-        "deep black",
-        "cold deep black"
-    ],
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Deep Black",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Deep Black-color-theme.json"
-            }
-        ]
-    },
-    "license": "MIT"
+  "name": "cold-deep-black",
+  "displayName": "Cold Deep Black",
+  "description": "Cold Deep Black",
+  "version": "1.4.0",
+  "publisher": "Hachidaime",
+  "lisence": "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hachidaime/cold-deep-black"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "hachidaime",
+    "deep black",
+    "cold deep black"
+  ],
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deep Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deep Black-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
 }
