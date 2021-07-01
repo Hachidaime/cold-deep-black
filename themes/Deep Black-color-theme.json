@@ -836,7 +836,8 @@
 			"name": "Keyword Control",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#00ffff"
+				"foreground": "#00ffff",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -857,7 +858,8 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#00ffff"
+				"foreground": "#00ffff",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1987,7 +1989,7 @@
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#00FF00"
+				"foreground": "#00FF00aa"
 			}
 		},
 		{
@@ -2018,14 +2020,6 @@
 			],
 			"settings": {
 				"foreground": "#d8d8d8"
-			}
-		},
-		{
-			"scope": [
-				"comment.block.documentation.js"
-			],
-			"settings": {
-				"foreground": "#FF00FF"
 			}
 		},
 		{
